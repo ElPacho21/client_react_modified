@@ -1,0 +1,10 @@
+.global_title {
+  text-align: center;
+}
+
+.global_content {
+}
+
+.hide {
+  visibility: hidden;
+}
